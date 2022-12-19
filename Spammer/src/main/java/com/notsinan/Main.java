@@ -1,6 +1,5 @@
 package com.notsinan;
 
-import com.notsinan.util.AreaManager;
 import org.dreambot.api.methods.input.Keyboard;
 import org.dreambot.api.methods.interactive.Players;
 import org.dreambot.api.methods.map.Area;
